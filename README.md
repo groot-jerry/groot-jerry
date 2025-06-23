@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junaed Hossain Jibon
 - 👀 I’m interested in solving problem
-- 🌱 I’m currently learning Python, HTML & CSS
+- 🌱 I’m currently learning Python, Machine learning & Deep Learning.
 - 💞️ I will achieve my goal InshaAllah
 - 📫 Feel free to contact me..
 
